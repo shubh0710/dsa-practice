@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubh0710/dsa-python/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubh0710/dsa-python/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/shubh0710/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shubh0710/dsa-python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubh0710/dsa-python/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubh0710/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubh0710/dsa-python/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shubh0710/dsa-python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubh0710/dsa-python/tree/master/0344-reverse-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubh0710/dsa-python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shubh0710/dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shubh0710/dsa-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh0710/dsa-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubh0710/dsa-python/tree/master/0219-contains-duplicate-ii) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubh0710/dsa-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubh0710/dsa-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubh0710/dsa-python/tree/master/0217-contains-duplicate) |
